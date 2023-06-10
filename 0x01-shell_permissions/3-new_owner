@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=current_owner new_oner hello
+chown --from=current_user Betty hello
